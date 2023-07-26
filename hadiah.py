@@ -1,4 +1,4 @@
-print("----------------- Program Kasir Sederhana Ekorkode -----------------")
+print("----------------- Program Kasir Sederhana -----------------")
 pembeli = input("Masukkan nama Pembeli: ")
 print ("Nama Pembeli :", pembeli) 
 
